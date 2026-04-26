@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Terms of Service
 permalink: /terms-of-service/
 last_modified_at: 2026-04-25
