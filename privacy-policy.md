@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Privacy Policy
 permalink: /privacy-policy/
 last_modified_at: 2026-04-25
