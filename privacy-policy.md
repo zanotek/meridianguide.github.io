@@ -23,7 +23,7 @@ By using Zanzibar Meridian Guide, you agree to the collection and use of informa
 Zanzibar Meridian Guide is operated by an individual developer. For any privacy-related questions or concerns, you may contact us at:
 
 **Email:** [support@meridianguide.com](mailto:support@meridianguide.com)  
-**GitHub:** [github.com/zanotek/meridianguide.github.io](https://github.com/zanotek/meridianguide.github.io)
+**GitHub:** [meridianguide.github.io](https://github.com/meridianguide.github.io)
 
 ---
 
@@ -146,4 +146,4 @@ Continued use of the App after any changes constitutes your acceptance of the re
 If you have questions, concerns, or requests related to this Privacy Policy, please reach out:
 
 **Email:** [support@meridianguide.com](mailto:support@meridianguide.com)  
-**GitHub:** [github.com/zanotek/meridianguide.github.io](https://github.com/zanotek/meridianguide.github.io)
+**GitHub:** [meridianguide.github.io](https://github.com/meridianguide.github.io)
