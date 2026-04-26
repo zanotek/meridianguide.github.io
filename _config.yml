@@ -1,8 +1,8 @@
 # Site settings
 title: Zanzibar Meridian Guide
 description: Tourism & Travel App — Legal Documents
-url: "https://zanotek.github.io"
-baseurl: "/meridianguide.github.io"
+url: "meridianguide.github.io"
+baseurl: ""
 
 # Theme — Primer
 theme: jekyll-theme-primer
