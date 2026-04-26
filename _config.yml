@@ -1,0 +1,30 @@
+# Site settings
+title: Zanzibar Meridian Guide
+description: Tourism & Travel App — Legal Documents
+url: "https://zanotek.github.io"
+baseurl: "/meridianguide.github.io"
+
+# Theme — Primer
+theme: jekyll-theme-primer
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Author / contact
+author:
+  name: Zanzibar Meridian Guide
+  email: support@meridianguide.com
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
